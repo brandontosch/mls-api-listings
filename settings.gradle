@@ -1,0 +1,4 @@
+rootProject.name = 'mls-api-listings'
+
+include ":never-rest-java"
+project(":never-rest-java").projectDir = file("../../../never-rest/never-rest-java")
